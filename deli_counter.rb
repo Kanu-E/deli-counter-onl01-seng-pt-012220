@@ -12,6 +12,7 @@ current_sentence = "The line is currently:"
 end
 end
 
+<<<<<<< HEAD
 def take_a_number (katz_deli, name)
   katz_deli << name
   puts "Welcome, #{name}. You are number #{katz_deli.length} in line." 
@@ -25,3 +26,6 @@ def now_serving(katz_deli)
     katz_deli.unshift
   end  
 end
+=======
+
+>>>>>>> f8a7740ef4c14b65ae2b70da4f09cde4427d6be0
